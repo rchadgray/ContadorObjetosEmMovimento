@@ -1,3 +1,10 @@
+How i installed openCV on my raspberry Pi 4
+https://www.pyimagesearch.com/2019/09/16/install-opencv-4-on-raspberry-pi-4-and-raspbian-buster/
+
+Lots of educational info on openCV
+https://www.pyimagesearch.com/
+
+
 # Contador de objetos em movimento
 Contador de objetos em movimento (utilizando OpenCV e Python)
 
